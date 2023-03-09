@@ -31,7 +31,7 @@ public final class PackageTriangleCheck {
      * @param args Unused.
      */
 
-    public static main(String[] args) {
+    public static void main(String[] args) {
         final Scanner scanner = new Scanner(System.in);
         int choice;
 
